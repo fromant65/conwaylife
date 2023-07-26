@@ -1,0 +1,11 @@
+.tablero-container {
+    border: 1px solid black;
+}
+
+.alive {
+    background-color: #000;
+}
+
+.dead {
+    background-color: #fff;
+}
